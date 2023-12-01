@@ -1,10 +1,10 @@
-# NFT Preview Card Component
+# Result summary Card Component
 
-This repository contains my solution for the Product Preview Card Component challenge from Frontend Mentor.
+This repository contains my solution for the Result summary Card Component challenge from Frontend Mentor.
 
 ## Challenge Description
 
-The challenge required building a responsive NFT preview card component. The goal was to accurately replicate the provided design and ensure responsiveness across various screen sizes.
+The challenge required building a responsive Result summary card component. The goal was to accurately replicate the provided design and ensure responsiveness across various screen sizes.
 
 ## Technologies Used
 
